@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.js": "/static/js/main.18ee57d6.chunk.js",
-    "main.js.map": "/static/js/main.18ee57d6.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.68d5631b.js",
-    "runtime-main.js.map": "/static/js/runtime-main.68d5631b.js.map",
-    "static/js/2.dfa4753d.chunk.js": "/static/js/2.dfa4753d.chunk.js",
-    "static/js/2.dfa4753d.chunk.js.map": "/static/js/2.dfa4753d.chunk.js.map",
-    "index.html": "/index.html",
-    "static/js/2.dfa4753d.chunk.js.LICENSE.txt": "/static/js/2.dfa4753d.chunk.js.LICENSE.txt",
-    "static/media/no_image.22d2aa4d.jpg": "/static/media/no_image.22d2aa4d.jpg",
-    "static/media/react-movie-logo.42955eb6.svg": "/static/media/react-movie-logo.42955eb6.svg",
-    "static/media/search-icon.cd820f5a.svg": "/static/media/search-icon.cd820f5a.svg",
-    "static/media/tmdb_logo.f15b6632.svg": "/static/media/tmdb_logo.f15b6632.svg"
+    "main.js": "/Movie-DB/static/js/main.18ee57d6.chunk.js",
+    "main.js.map": "/Movie-DB/static/js/main.18ee57d6.chunk.js.map",
+    "runtime-main.js": "/Movie-DB/static/js/runtime-main.cfd773b7.js",
+    "runtime-main.js.map": "/Movie-DB/static/js/runtime-main.cfd773b7.js.map",
+    "static/js/2.aed4db7d.chunk.js": "/Movie-DB/static/js/2.aed4db7d.chunk.js",
+    "static/js/2.aed4db7d.chunk.js.map": "/Movie-DB/static/js/2.aed4db7d.chunk.js.map",
+    "index.html": "/Movie-DB/index.html",
+    "static/js/2.aed4db7d.chunk.js.LICENSE.txt": "/Movie-DB/static/js/2.aed4db7d.chunk.js.LICENSE.txt",
+    "static/media/no_image.22d2aa4d.jpg": "/Movie-DB/static/media/no_image.22d2aa4d.jpg",
+    "static/media/react-movie-logo.42955eb6.svg": "/Movie-DB/static/media/react-movie-logo.42955eb6.svg",
+    "static/media/search-icon.cd820f5a.svg": "/Movie-DB/static/media/search-icon.cd820f5a.svg",
+    "static/media/tmdb_logo.f15b6632.svg": "/Movie-DB/static/media/tmdb_logo.f15b6632.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.68d5631b.js",
-    "static/js/2.dfa4753d.chunk.js",
+    "static/js/runtime-main.cfd773b7.js",
+    "static/js/2.aed4db7d.chunk.js",
     "static/js/main.18ee57d6.chunk.js"
   ]
 }
